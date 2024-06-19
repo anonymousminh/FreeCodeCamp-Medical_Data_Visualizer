@@ -20,5 +20,7 @@ Smoking	Subjective Feature	smoke	binary
 Alcohol intake	Subjective Feature	alco	binary
 Physical activity	Subjective Feature	active	binary
 Presence or absence of cardiovascular disease	Target Variable	cardio	binary
+
+
 Tasks
 Create a chart similar to examples/Figure_1.png, where we show the counts of good and bad outcomes for the cholesterol, gluc, alco, active, and smoke variables for patients with cardio=1 and cardio=0 in different panels.
